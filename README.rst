@@ -31,7 +31,7 @@ How To Use
 * The main course curriculum is at `HackNight.md <HackNight.md>`_.
 * If you are new and everyone is further ahead of you, do not worry, start from Week 0.
 * Follow the curriculum at your own pace.
-* If there are hands on for the Week ahead of yours, do not worry, read up on the materials and we will help you as much as you can to absorb the concepts.
+* If there are hands on for the Week ahead of yours, do not worry, read up on the materials and we will make the concepts as easy as possible for you to understand.
 
 Disclaimers
 ===========
