@@ -9,7 +9,7 @@ Specific Resources
 * `IRC: #apu-iac on chat.freenode.net <http://www.apucsfc.org/irc/>`_.
 * `APU CSFC Blog <http://www.apucsfc.org>`_.
 * `APU CSFC Github <https://github.com/APU-CSFC>`_.
-* `APU CSFC Mailing List <https://groups.google.com/forum/#!forum/apu-csfc>`_.
+* `APU CSFC Mailing List <https://groups.google.com/forum/#!forum/apu-csfc>`_. (Please send additional information in the message box regarding your fullname, TP No.)
 * `APU CSFC Calendar <http://www.apucsfc.org/calendar>`_.
 
 -----
